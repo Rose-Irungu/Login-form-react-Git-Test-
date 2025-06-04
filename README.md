@@ -20,7 +20,6 @@ This is a simple login page built with React. It demonstrates the use of basic f
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+https://github.com/Rose-Irungu/Login-form-react.git
 npm install
 npm start
