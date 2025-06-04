@@ -1,12 +1,26 @@
-# React + Vite
+# React Login Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple login page built with React. It demonstrates the use of basic form handling, state management, and responsive styling using React components.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Username and password input fields
+- Basic validation
+- Submit button with feedback
+- Clean and modern UI
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- HTML & CSS
+- JavaScript
+
+## Getting Started
+
+To run this project locally:
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+npm install
+npm start
